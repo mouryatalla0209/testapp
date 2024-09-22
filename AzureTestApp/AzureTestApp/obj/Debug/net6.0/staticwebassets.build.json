@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ll7n5N771cH/e5iXW5xqEHPF2KgqJ8ycavfNjmhP/ck=",
+  "Source": "AzureTestApp",
+  "BasePath": "_content/AzureTestApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

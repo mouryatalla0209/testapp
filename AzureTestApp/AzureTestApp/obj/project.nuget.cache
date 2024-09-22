@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/z61t+uWNNx33Ybp7VyJKjuV3Zdh3yDhfrKWhxrFG9JM3LrlmBXyuBTXTl83CwyKOAQxHEkMbaxW1f5rr+8bwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\testapp\\AzureTestApp\\AzureTestApp\\AzureTestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Nani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Nani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Nani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
